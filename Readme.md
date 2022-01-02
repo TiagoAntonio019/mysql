@@ -5,7 +5,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/TiagoAntonio019/mysql.git
 git push -u origin main
-------------------------------------------------------------------
+<br>
 Push an existing repository
 git remote add origin https://github.com/TiagoAntonio019/mysql.git
 git branch -M main
