@@ -7,5 +7,6 @@
   <li>Create a new instance of the SQL class: <i> $Conn = new SQL();</i></li>
 </ol>
 <h5>Methods</h5>
-<p><b>Run(<command>);</b> INSERT, UPDATE, DELETE...</p> 
-<p><b>Select(<command>);</b> SELECT</p> 
+<p><b>Run(command);</b> INSERT, UPDATE, DELETE...</p> 
+<p><b>Select(command);</b> SELECT</p>
+<p>The Select function returns a two-dimensional array.</p>
